@@ -1,14 +1,14 @@
-body{
+body {
     width: 100%;
     margin: 30px;
-    background-color: antiquewhite;
+    background-color: tomato;
 }
 
 #profile-container{
     max-width: 300px;
     background-color: green;
-    border: 1px solid gray;
-    border-radius: 6 pc;
+    border: 1px solid teal;
+    border-radius: 6px;
 }
 
 #profile-image{
@@ -18,4 +18,3 @@ body{
 
 #profile-name{
     text-align: center;
-}
