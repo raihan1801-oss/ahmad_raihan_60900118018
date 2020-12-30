@@ -1,12 +1,12 @@
 body {
     width: 100%;
     margin: 30px;
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 #profile-container{
     max-width: 300px;
-    background-color: green;
+    background-color: teal;
     border: 1px solid teal;
     border-radius: 6px;
 }
